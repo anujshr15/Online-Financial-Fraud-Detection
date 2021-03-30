@@ -31,17 +31,20 @@ We aim to perform the strategies on different datasets
 ### Feature Selection techniques used - 
 1) Removing correlated features
 2) Information gain
+3) Forward feature selection
 
 ### Machine Learning models used -
-1) KNN
-2) Logistic regression
-3) Gaussian Naive Bayes
-4) Decision Tree
+1) Logistic regression
+2) Gaussian Naive Bayes
+3) Decision Tree
+4) XGBoost
 5) Voting Classifier
 
 
 ### Metrics used - 
-1) F1- Score
+1) Accuracy
+2) F1- Score
+3) ROC-AUC
 
 This project is in progress. More techniques will be added.
 
